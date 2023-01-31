@@ -50,9 +50,9 @@ See the live by clicking [Live Demo Link](https://usamamasood12.github.io/Leader
 
 👤 **Cynthia Inga**
 
-- GitHub: [@cynthiainga](https://github.com/UsamaMasood12)
-- Twitter: [@CynthiaInga_C](https://twitter.com/Usama__Masood)
-- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/usama-masood-b4a35014b/)
+- GitHub: [@UsamaMasood12](https://github.com/UsamaMasood12)
+- Twitter: [@Usama__Masood](https://twitter.com/Usama__Masood)
+- LinkedIn: [usama-masood](https://www.linkedin.com/in/usama-masood-b4a35014b/)
 
 ## 🤝 Contributing
 
