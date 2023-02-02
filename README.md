@@ -66,6 +66,12 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+## Future Features
+
+- Attach a proper game with this leaderboard.
+- Will store the score of the player from that game.
+- Will try to make more attractive. 
+
 ## Acknowledgments
 
 - Thanks to everyone who will get time to check this code and sugest any [issue](https://github.com/UsamaMasood12/Leaderboard/issues) to improve the page.
