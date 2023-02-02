@@ -1,12 +1,14 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Leaderboard
 
 ## Description
 
-![Page_screenshot](./src/image/Capture.PNG)
-
 > The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+
+- This is the page view:
+
+> |     | Mobile version                          | Desktop version                          |     |
+> | --- | --------------------------------------- | ---------------------------------------- | --- |
+> |     | ![Screenshot1](./src/images/Mobile.png) | ![Screenshot2](./src/images/Desktop.png) |
 
 ## Built With
 
@@ -63,6 +65,12 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Future Features
+
+- Attach a proper game with this leaderboard.
+- Will store the score of the player from that game.
+- Will try to make more attractive. 
 
 ## Acknowledgments
 
